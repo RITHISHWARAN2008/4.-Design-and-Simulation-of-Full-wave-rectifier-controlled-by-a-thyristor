@@ -66,5 +66,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![WhatsApp Image 2026-03-18 at 7 08 26 PM](https://github.com/user-attachments/assets/70baf2f8-2fcf-4762-8140-1b486f6f7820)
+
 ## Output
+![WhatsApp Image 2026-03-18 at 7 08 52 PM (1)](https://github.com/user-attachments/assets/cd65e1aa-0e64-45f7-ad5b-082dca442eba)
+
 ## Result
+thus the full wave redctifier controlled by thyristor is successfully simulated and verified
